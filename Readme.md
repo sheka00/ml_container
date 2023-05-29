@@ -1,4 +1,4 @@
-Ссылка видеопрезентации `https://drive.google.com/file/d/1hK6oUyjPS1f5t1lBm7YWvCVl2zpBxRR1/view?usp=share_link`  
+Ссылка видеопрезентации **https://drive.google.com/file/d/1hK6oUyjPS1f5t1lBm7YWvCVl2zpBxRR1/view?usp=share_link**  
 
 
 Для начала работы необходимо собрать образ из докер файла `Dockerfile` с помощью команды `docker build --no-cache -t deepdoc_proj:1.0 .`  
